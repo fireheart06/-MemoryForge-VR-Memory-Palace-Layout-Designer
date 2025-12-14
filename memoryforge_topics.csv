@@ -1,0 +1,16 @@
+topic,group,importance,difficulty
+Sampling Theorem,Signals Basics,5,3
+Nyquist Rate,Signals Basics,4,3
+Aliasing,Signals Basics,5,4
+Quantization,Signals Basics,3,3
+Fourier Series,Transforms,4,4
+Fourier Transform,Transforms,5,5
+Laplace Transform,Transforms,3,4
+Z-Transform,Transforms,4,5
+FIR Filters,Filtering,5,4
+IIR Filters,Filtering,4,5
+Windowing,Filtering,3,3
+Noise Models,Advanced,4,4
+Channel Capacity,Advanced,5,5
+Modulation Basics,Advanced,3,3
+Error Control Coding,Advanced,4,5
